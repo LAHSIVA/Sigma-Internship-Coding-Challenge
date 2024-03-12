@@ -58,10 +58,14 @@ and V(d+1) = V(d) in all other cases
  - Maximum Portfolio Value : 40
  - Indexes where portfolio value increases by 1: [6, 8, 12, 16, 21, 28, 30, 41, 50, 52, 59, 61, 69, 79, 85, 88, 94, 100, 103, 108, 110, 113, 117, 120, 123, 133, 142, 160, 164, 177, 187, 191, 207, 209, 212, 216, 218, 232, 234, 238]
 
-# 6 TIME SERIES ANALYSIS RETURN OVER TIME
+# 7 TIME SERIES ANALYSIS RETURN OVER TIME
 
 
 <img src="timeseries.png" alt="Girl in a jacket" width="500" height="600">
+
+# 8 Correlation heatmap 
+
+<img src="correlation.png" alt="Girl in a jacket" width="500" height="600">
 
 
 
