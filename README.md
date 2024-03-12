@@ -61,7 +61,7 @@ and V(d+1) = V(d) in all other cases
 # 6 TIME SERIES ANALYSIS RETURN OVER TIME
 
 
-
+<img src="timeseries.png" alt="Girl in a jacket" width="500" height="600">
 
 
 
